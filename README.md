@@ -4,13 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Hello! I'm Tufan, a 24-year-old PHP Full Stack Web Developer with 6 years of industry experience. I am passionate about what I do and have honed my skills in both backend and frontend development. PHP is my primary language, and I am proficient in technologies like HTML, CSS, JavaScript, and MySQL. I thrive on collaboration and enjoy working on new projects. Writing code and creating innovative solutions bring me immense joy. I value teamwork and constantly strive to learn and grow. Feel free to reach out to me, I look forward to working with you!
+Hello! I'm Tufan, a 25-year-old PHP Full Stack Web Developer with 6 years of industry experience. I am passionate about what I do and have honed my skills in both backend and frontend development. PHP is my primary language, and I am proficient in technologies like HTML, CSS, JavaScript, and MySQL. I thrive on collaboration and enjoy working on new projects. Writing code and creating innovative solutions bring me immense joy. I value teamwork and constantly strive to learn and grow. Feel free to reach out to me, I look forward to working with you!
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [tufangokmenler.com](http://www.tufangokmenler.com)
 * ✉️  You can contact me at [tufangokmenler@gmail.com](mailto:tufangokmenler@gmail.com)
 * 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on interesting projects
+* 🔗  Check my [cssbattle profile](https://cssbattle.dev/player/tufkan)
 
 ### Skills
 
